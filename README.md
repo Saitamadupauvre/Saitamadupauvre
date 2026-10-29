@@ -7,17 +7,15 @@
 <p align="center">
   <a href="mailto:alban.lembrez@epitech.eu"><img src="https://img.shields.io/badge/Email-alban.lembrez%40epitech.eu-1f6feb?style=flat-square&logo=maildotru&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/alban-lembrez/"><img src="https://img.shields.io/badge/LinkedIn-Alban%20Lembrez-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://alban-lembrez.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-alban--lembrez.vercel.app-e0a526?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
 </p>
 
 I build game engines, multiplayer games and the tools around them. I like problems where the
 architecture matters: entity-component systems, networked simulation, plugin loading, rendering.
 
 <p align="center">
-  <a href="https://github.com/Saitamadupauvre/RPG-Portfolio">
-    <img src="assets/rpg-portfolio-menu.png" alt="RPG-Portfolio: menu over the live 3D world" width="820">
-  </a>
-  <br>
-  <sub>My portfolio is a game: every glowing statue in the world holds one of my projects.</sub>
+  My portfolio is a game: every glowing statue in the world holds one of my projects.
+  <b><a href="https://alban-lembrez.vercel.app/">Play it in your browser</a></b>
 </p>
 
 ## Featured projects
@@ -27,7 +25,7 @@ architecture matters: entity-component systems, networked simulation, plugin loa
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Saitamadupauvre/RPG-Portfolio">RPG-Portfolio</a></h3>
       <img src="assets/rpg-portfolio-world.png" alt="RPG-Portfolio gameplay">
-      <p>Open-world, low-poly action RPG in the browser. Hand-made map editor, Unity-style animator fed by Blender clips, enemy AI with A* pathfinding, event-driven layered architecture. A classic list view for recruiters in a hurry.</p>
+      <p>Open-world, low-poly action RPG in the browser. Hand-made map editor, Unity-style animator fed by Blender clips, enemy AI with A* pathfinding, event-driven layered architecture. A classic list view for recruiters in a hurry. <b><a href="https://alban-lembrez.vercel.app/">Play it live</a></b></p>
       <p><code>TypeScript</code> <code>Three.js</code> <code>WebGL</code> <code>Vite</code> <code>Blender</code></p>
     </td>
     <td width="50%" valign="top">
